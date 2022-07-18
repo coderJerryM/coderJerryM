@@ -5,9 +5,17 @@
 
 
 
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderJerryM.coderJerryM&left_color=green&right_color=red)
+
+
+
+![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderJerryM&count_private=true&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderJerryM&layout=compact&theme=tokyonight)
+
+
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coderJerryM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
 
