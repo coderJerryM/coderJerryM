@@ -15,6 +15,7 @@
 
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-d1a622?style=flat-square&logo=javascript&logoColor=white)
 
 <!--
 **coderJerryM/coderJerryM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
