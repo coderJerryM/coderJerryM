@@ -1,4 +1,4 @@
-### Hi I’m Jerry 👋
+### Hi, I’m Jerry 👋
 
 🔭 &nbsp;&nbsp; I’m currently working on **frontend developer** <br/>
 📫 &nbsp;&nbsp; How to reach me **cjm17342948@163.com** <br/>
@@ -19,14 +19,16 @@
 
 
 
-![Javascript](https://img.shields.io/badge/-Javascript-d1a622?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-3cafd2?style=flat-square&logo=react&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-006fc5?style=flat-square&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3b7a35?style=flat-square&logo=Node.js&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-82d0f8?style=flat-square&logo=webpack&logoColor=white)
-![Rollup](https://img.shields.io/badge/-Rollup-f27539?style=flat-square&logo=Rollup&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
+![Rollup](https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 
 <!--
