@@ -25,7 +25,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-006fc5?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3b7a35?style=flat-square&logo=Node.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-82d0f8?style=flat-square&logo=webpack&logoColor=white)
-![Rollup](https://img.shields.io/badge/-Rollup-f27539?style=flat-square&logo=rollup&logoColor=white)
+![Rollup](https://img.shields.io/badge/-Rollup-f27539?style=flat-square&logo=Rollup&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
