@@ -22,7 +22,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=coderJerryM)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=coderJerryM) -->
 
 
 
