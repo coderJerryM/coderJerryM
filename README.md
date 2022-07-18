@@ -4,8 +4,8 @@
 📫 &nbsp;&nbsp; How to reach me **cjm17342948@163.com** <br/>
 
 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=coderJerryM.coderJerryM&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=coderJerryM&color=blueviolet)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderJerryM.coderJerryM&left_color=green&right_color=red) -->
 
 
 
