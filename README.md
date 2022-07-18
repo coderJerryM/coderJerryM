@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I’m Jerry 👋
 
 🔭 &nbsp;&nbsp; I’m currently working on **frontend developer** <br/>
 📫 &nbsp;&nbsp; How to reach me **cjm17342948@163.com** <br/>
