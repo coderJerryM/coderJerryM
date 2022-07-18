@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 &nbsp;&nbsp; I’m currently working on **frontend developer** <br/>
+📫 &nbsp;&nbsp; How to reach me **cjm17342948@163.com** <br/>
+
+
+
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderJerryM.coderJerryM&left_color=green&right_color=red)
 
