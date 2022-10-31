@@ -15,7 +15,9 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=coderJerryM&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 -->
 
-<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=coderJerryM&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff" /><img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderJerryM&layout=compact&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="" height="160px" src="https://github-readme-stats.vercel.app/api?username=coderJerryM&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff" />
+
+<img align="" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderJerryM&layout=compact&show_icons=true&bg_color=30,7028e4,e5b2ca&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/anuraghazra/github-readme-stats" />
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=coderJerryM) -->
